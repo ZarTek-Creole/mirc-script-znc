@@ -6,7 +6,7 @@
 ;
 ; Version : 0.1                      
 ;                                         
-; Auteur : MalaGaM ( ARTiS Family - ARTiSPRETiS@Gmail.com )
+; Auteur : ZarTek ( ARTiS Family - Creole@Gmail.com )
 ;
 ; Date : 2018
 ;
